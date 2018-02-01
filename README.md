@@ -1,2 +1,7 @@
 # hello-world
-the first repository of mine
+
+This is the first repository of mine.
+
+I like it.
+
+It is so interesting.
